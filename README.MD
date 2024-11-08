@@ -1,4 +1,6 @@
 
+notes: this is a duplicate repo from [rl_a3c_pytorch](https://github.com/dgriff777/rl_a3c_pytorch)
+
 *Update: Minor updates to code. Added distributed step size training functionality. Added integration to tensorboard so you can can log and create graphs of training, see graph of model, and visualize your weights and biases distributions as they update during training.
 
 # A3G A GPU/CPU ARCHITECTURE OF A3C FOR SUBSTANTIALLY ACCELERATED TRAINING
